@@ -2,7 +2,7 @@
 
 /* base styles */
 body{
-  background: linear-gradient(180deg, #04fafd, 5%, #119dff);
+  background: linear-gradient(rgba(0, 0, 255, 0.336), rgba(0, 128, 0, 0.521));
 }
 * {
   margin: 0;
